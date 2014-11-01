@@ -13,6 +13,9 @@
 		790942FB1A04E4AA00A74C63 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 790942FA1A04E4AA00A74C63 /* Images.xcassets */; };
 		790942FE1A04E4AA00A74C63 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 790942FC1A04E4AA00A74C63 /* LaunchScreen.xib */; };
 		7909430A1A04E4AA00A74C63 /* PostcardTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 790943091A04E4AA00A74C63 /* PostcardTests.swift */; };
+		790943141A04EDA700A74C63 /* MyPic.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 790943131A04EDA700A74C63 /* MyPic.JPG */; };
+		790943161A04F29700A74C63 /* Kalyan.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 790943151A04F29700A74C63 /* Kalyan.JPG */; };
+		790943181A053C9000A74C63 /* sachin.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 790943171A053C9000A74C63 /* sachin.JPG */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +39,9 @@
 		790943031A04E4AA00A74C63 /* PostcardTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PostcardTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		790943081A04E4AA00A74C63 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		790943091A04E4AA00A74C63 /* PostcardTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostcardTests.swift; sourceTree = "<group>"; };
+		790943131A04EDA700A74C63 /* MyPic.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = MyPic.JPG; sourceTree = "<group>"; };
+		790943151A04F29700A74C63 /* Kalyan.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Kalyan.JPG; sourceTree = "<group>"; };
+		790943171A053C9000A74C63 /* sachin.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = sachin.JPG; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,6 +96,9 @@
 		790942F11A04E4AA00A74C63 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				790943171A053C9000A74C63 /* sachin.JPG */,
+				790943151A04F29700A74C63 /* Kalyan.JPG */,
+				790943131A04EDA700A74C63 /* MyPic.JPG */,
 				790942F21A04E4AA00A74C63 /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -193,8 +202,11 @@
 			buildActionMask = 2147483647;
 			files = (
 				790942F91A04E4AA00A74C63 /* Main.storyboard in Resources */,
+				790943181A053C9000A74C63 /* sachin.JPG in Resources */,
 				790942FE1A04E4AA00A74C63 /* LaunchScreen.xib in Resources */,
+				790943141A04EDA700A74C63 /* MyPic.JPG in Resources */,
 				790942FB1A04E4AA00A74C63 /* Images.xcassets in Resources */,
+				790943161A04F29700A74C63 /* Kalyan.JPG in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
